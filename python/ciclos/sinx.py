@@ -1,3 +1,5 @@
+import math
+
 x = 10
 eps = 1e-12
 k = 0
